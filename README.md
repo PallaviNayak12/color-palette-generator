@@ -18,10 +18,13 @@ Perfect for designers, developers, or anyone seeking quick color inspiration.
  🖼️ Screenshot
 ![App Screenshot](outputimage.png)
 
+🎥 Demo Video
+![Demo Video](demo.mp4)
+
+---
 
 
-
-## 🛠 Tech Stack
+ 🛠 Tech Stack
 - HTML5 – Structure  
 - CSS3 – Styling & animations  
 - JavaScript  – Logic for generating and copying colors  
