@@ -13,6 +13,13 @@ Perfect for designers, developers, or anyone seeking quick color inspiration.
 - 🚀 Works directly in the browser (no backend required)  
 
 ---
+ 📸 Preview
+
+ 🖼️ Screenshot
+![App Screenshot](outputimage.png)
+
+
+
 
 ## 🛠 Tech Stack
 - HTML5 – Structure  
