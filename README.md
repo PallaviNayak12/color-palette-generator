@@ -9,7 +9,7 @@ Perfect for designers, developers, or anyone seeking quick color inspiration.
  ✨ Features
 - 🔄 Generate 6 random colors with one click  
 - 📋 Click a color box to copy its HEX code 
-- 🎨 Attractive hover animations and responsive design  
+- 🎨 Attractive hover animations and responsive design
 - 🚀 Works directly in the browser (no backend required) 
 
 ---
